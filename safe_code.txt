@@ -1,0 +1,3 @@
+This file contains perfectly safe text.
+There are no secrets or dangerous patterns here.
+Just plain old text content.
